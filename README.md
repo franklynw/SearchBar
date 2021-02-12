@@ -1,6 +1,6 @@
 # SearchBar
 
-A SwiftUI implementation of Search Controller functionality
+A SwiftUI implementation of Search Controller functionality.
 Currently only tried out on iOS, requires iOS 14 upwards
 
 <img src="Sources/SearchBar/Resources//Example1.png" alt="Example 1"/>
@@ -258,7 +258,7 @@ SearchBar(viewModel)
 
 ## Dependencies
 
-Requires InputAccessoryTextField, which is linked. GitHub page is [here](https://github.com/franklynw/InputAccessoryTextField)
+Requires InputAccessoryTextField, which is linked. GitHub page is [here](https://github.com/franklynw/InputAccessoryTextField).
 Also uses FWCommonProtocols, but that comes with InputAccessoryTextField. GitHub page is [here](https://github.com/franklynw/FWCommonProtocols)
 
 
